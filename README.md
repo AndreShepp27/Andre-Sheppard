@@ -1,33 +1,37 @@
 # Andre Sheppard
 
-## Mission Statement
-Junior student at Marymount University pursuing a B.S. in Cybersecurity.
+## 👨‍💻 Cybersecurity Student | Security & Infrastructure Analysis
 
-## Toolkit
+### 🎯 Mission
+Cybersecurity student focused on **network security, malware analysis, and infrastructure hardening**, with hands-on experience documenting security labs using industry-style reporting and evidence-based validation.
 
-### Operating Systems
-- Windows 11
-- Linux (Ubuntu)
+### 🧰 Toolkit
+**Operating Systems**
+- Windows 10 / 11
+- Kali Linux
+- Ubuntu Linux
 
-### Security & Malware Analysis Tooling
-- PEStudio
-- Sysinternals Suite (Strings, Procmon)
-- SysAnalyzer
-- VirusTotal
+**Security Tooling**
 - Wireshark
-- VirtualBox / VMware
+- Nmap
+- VirtualBox
+- Cisco Packet Tracer
+- IDA Free (basic analysis)
 
-### Programming & Scripting
+**Languages**
 - Python
-- PowerShell
 - Bash
+- SQL
 
-### Frameworks & Methodologies
-- Practical Malware Analysis
-- Static Malware Analysis
-- Dynamic Malware Analysis
-- Behavioral Analysis
-- Safe Malware Handling in Isolated Environments
+**Frameworks & Concepts**
+- TCP/IP & OSI Model
+- Firewalls & Network Segmentation
+- Identity & Access Management (IAM)
+- Malware Behavioral Analysis
+- NIST Cybersecurity Framework (introductory)
 
-## Highlight Reel
-Pinned repositories showcase my most complex and complete malware analysis and security engineering projects, demonstrating hands-on capability, investigative methodology, and professional reporting standards.
+### 📌 Highlighted Work
+Pinned repositories below demonstrate:
+- Network traffic analysis
+- Security configuration validation
+- Professional technical documentation
