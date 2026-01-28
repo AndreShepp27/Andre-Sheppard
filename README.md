@@ -1,12 +1,12 @@
 # Andre Sheppard
 
 ## Mission Statement
-Specializing in static and dynamic malware analysis with a focus on behavioral detection, anti-analysis techniques, and professional documentation of malicious software.
+Junior student at Marymount University pursuing a B.S. in Cybersecurity.
 
 ## Toolkit
 
 ### Operating Systems
-- Windows 10 / Windows 11
+- Windows 11
 - Linux (Ubuntu)
 
 ### Security & Malware Analysis Tooling
